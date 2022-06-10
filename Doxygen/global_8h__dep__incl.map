@@ -1,0 +1,17 @@
+<map id="global.h" name="global.h">
+<area shape="rect" id="node2" href="$affichageTableau_8c.html" title="Ce fichier contient la fonctions permettant d&#39;afficher le niveau courant. " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$affichageTableau_8h.html" title="affichageTableau.h" alt="" coords="621,80,753,107"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="main.c" alt="" coords="709,155,770,181"/>
+<area shape="rect" id="node5" href="$retourArriere_8h.html" title="retourArriere.h" alt="" coords="338,80,442,107"/>
+<area shape="rect" id="node6" href="$deplacement_8c.html" title="Contient la fonction gérant les entrées clavier du joueur et qui les retranscrit en deplacements ou a..." alt="" coords="210,155,317,181"/>
+<area shape="rect" id="node7" href="$sauvegarde_8h.html" title="sauvegarde.h" alt="" coords="213,80,313,107"/>
+<area shape="rect" id="node8" href="$deplacement_8h.html" title="deplacement.h" alt="" coords="973,80,1079,107"/>
+<area shape="rect" id="node10" href="$lectureTableau_8c.html" title="Contient des fonctions permettant ensemble de créer un tableau représentant un niveau donné..." alt="" coords="1132,155,1251,181"/>
+<area shape="rect" id="node11" href="$util_8h.html" title="util.h" alt="" coords="1103,80,1154,107"/>
+<area shape="rect" id="node12" href="$retourArriere_8c.html" title="Contient les fonctions d&#39;empilage des mouvements et de retour Arrière utilisé dans deplacement..." alt="" coords="1275,155,1379,181"/>
+<area shape="rect" id="node14" href="$lectureTableau_8h.html" title="lectureTableau.h" alt="" coords="829,80,948,107"/>
+<area shape="rect" id="node15" href="$positionObjectifs_8h.html" title="positionObjectifs.h" alt="" coords="466,80,597,107"/>
+<area shape="rect" id="node16" href="$positionObjectifs_8c.html" title="Ce fichier contient les fonctions permettant de vérifier la victoire du joueur, ainsi que celle perme..." alt="" coords="1279,80,1410,107"/>
+<area shape="rect" id="node9" href="$sauvegarde_8c.html" title="Ce fichier contient les fonctions permettant de sauvegarder le jeu et de reprendre depuis la dernière..." alt="" coords="932,155,1032,181"/>
+<area shape="rect" id="node13" href="$util_8c.html" title="Contient des fonctions utilitaires, comme une version de malloc avec gestion d&#39;erreurs ou une fonctio..." alt="" coords="1057,155,1107,181"/>
+</map>
