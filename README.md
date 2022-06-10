@@ -1,4 +1,4 @@
-# <center>Projet Sokoban Groupe 9</center>
+# <center>Projet Sokoban</center>
 
 ## Jeu de Sokoban fonctionnel avec sauvegarde, retour en arrière, remise à zéro et comptage du nombre de mouvements.<br>Sauvegarde de solutions des niveaux commencée, mais non fonctionnelle.
 ### Instructions :
